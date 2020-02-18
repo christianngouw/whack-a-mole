@@ -1,2 +1,2 @@
-# wack-a-mole
+# whack-a-mole
 latihan game 
