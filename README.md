@@ -1,2 +1,2 @@
 # whack-a-mole
-simple whack a mole game
+simple whack a mole game with javascript
