@@ -1,2 +1,2 @@
 # whack-a-mole
-latihan game 
+simple whack a mole game
